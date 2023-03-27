@@ -1,1 +1,1 @@
-You only need low-quality data for fundus image quality enhancement
+You only need low-quality images for fundus image quality enhancement
