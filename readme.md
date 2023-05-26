@@ -1,8 +1,8 @@
 # Image
 
-|                                  Paper                                 |                   File               |
-|  Lesion-aware Contrastive Learning for Diabetic Retinopathy Diagnosis  | Contrstive Learning&Downstream Task  |
-|                                                                        |                                      |
+|                                  Paper                                 |                   File               |     
+|  Lesion-aware Contrastive Learning for Diabetic Retinopathy Diagnosis  | Contrstive Learning&Downstream Task  |      
+|                                                                        |                                      |        
 
 ##  **Methodology**
 
