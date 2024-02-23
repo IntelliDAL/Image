@@ -6,7 +6,7 @@
 
 ## **Methodology**
 
-[![model_structure]](https://github.com/IntelliDAL/Image/blob/main/images/model3.jpg)
+[![model_structure](https://github.com/IntelliDAL/Image/raw/main/images/model3.jpg)](https://github.com/IntelliDAL/Image/blob/main/images/model3.jpg)
 
 ## Requirements
 
@@ -51,7 +51,7 @@ Using pre trained lesion detectors to detect lesion images, randomly cropping he
 **Stage2**: Train
 
 ```
-$ python train.py
+$ python main.py
 ```
 
 
